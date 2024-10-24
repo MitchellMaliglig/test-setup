@@ -34,6 +34,9 @@ function App() {
       <p>
         Hello world of pizza!
       </p>
+      <p>
+        Exxxxtra pizza!
+      </p>
     </>
   )
 }
